@@ -1,3 +1,5 @@
+"""ATM Class."""
+
 class Atm:
     def __init__(self):
         self.username = ["Amal","Anand","Abi"]
